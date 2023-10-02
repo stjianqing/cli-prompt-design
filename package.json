@@ -1,0 +1,23 @@
+{
+  "name": "cli-prompt-design",
+  "version": "1.0.0",
+  "description": "cli prompter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stjianqing/cli-prompt-design.git"
+  },
+  "author": "Abigail Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stjianqing/cli-prompt-design/issues"
+  },
+  "homepage": "https://github.com/stjianqing/cli-prompt-design#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "inquirer": "^9.2.11"
+  }
+}
